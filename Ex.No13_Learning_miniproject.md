@@ -1,6 +1,6 @@
 # Ex.No: 13 Machine Learning – Mini Project  
-### DATE: 22.04.2024                                                                          
-### REGISTER NUMBER : 212221060042
+### DATE:                                                                         
+### REGISTER NUMBER : 212222043006
 ### AIM: 
 To write a program to train the classifier for Diabetes.
 ###  Algorithm:
@@ -57,10 +57,9 @@ app.launch(share=True)
 ```
 
 ### Output:
-![image](https://github.com/DHANUSH-G11/AI_Lab_2023-24/assets/161037212/d68aa6a6-8901-4ce0-a6e0-ca1a6ff435b3)
+![1](https://github.com/user-attachments/assets/2c9d8b8d-f170-4f28-a5c6-deb82c964f71)
 
-
-![image](https://github.com/DHANUSH-G11/AI_Lab_2023-24/assets/161037212/618d2c2f-cfa3-4ff7-926b-0990145d1b65)
+![2](https://github.com/user-attachments/assets/65d25248-c345-4a50-84e4-4477b0d8e034)
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
